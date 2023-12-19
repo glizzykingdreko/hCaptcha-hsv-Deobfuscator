@@ -1,0 +1,5 @@
+node_modules/
+*.wasm
+*.txt
+*.out.*
+.DS_Store
